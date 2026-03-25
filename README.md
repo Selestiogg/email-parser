@@ -1,10 +1,9 @@
 # Email Parser
 
-Собирает email-адреса с указанного сайта и сохраняет в emails.txt.
+Собирает email-адреса с указанного сайта и сохраняет в `emails.txt`.
 
 ## Установка
-pip install -r requirements.txt
 
-## Запуск
+```bash
+pip install -r requirements.txt
 python parser.py
-Введите URL сайта
